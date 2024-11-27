@@ -21,10 +21,15 @@ python3 synthesize.py --text "YOUR_DESIRED_TEXT" --speaker_id SPEAKER_ID --resto
 ```
 
 Different speaker_id's are:
+
 0 -> neutral
+
 1 -> happy
+
 2 -> angry
+
 3 -> sad
+
 4 -> surprise
 
 The generated utterances will be put in ``output/result/``.
